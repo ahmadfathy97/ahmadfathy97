@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://github.com/ahmadfathy97/ahmadfathy97/blob/master/images/me1.jpg" alt="Me :)">
 </p>
-<i>Pretty... Right?</i>
+<i>Pretty handsome... Right?</i>
 <h1>I am using JavaScript in almost all of my works.</h1>
 <img src="https://github.com/ahmadfathy97/ahmadfathy97/blob/master/images/js.jpg" />
 <p>end of text</p>
