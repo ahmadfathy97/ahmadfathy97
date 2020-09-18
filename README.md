@@ -16,10 +16,11 @@ GraphQL.
 ### Achievements
 __July 2020:__ I graduated from specific education college and I got the __first__ place in my department (educational technology department) 🎉🎉 and the __second__ place in my college 🎉🎉 with GPA: 3.675. And I got an A+ in my graduation project __[ICC(Internal Computer Components)](https://ahmadfathy97.github.io/icc 'ICC')__.
 
-### My social media
-[facebook](https://www.facebook.com/AhmadFathy97/)
-[twitter](https://twitter.com/ahmad_fathy97)
-[linkedin](https://www.linkedin.com/in/ahmadfathy97/)
+### Contact Info
+ahmadfathydev@gmail.com
+[twitter](https://twitter.com/ahmad_fathy97)\
+[linkedin](https://www.linkedin.com/in/ahmadfathy97/)\
+[facebook](https://www.facebook.com/AhmadFathy97/)\
 [Ahmad Fathy](https://ahmadfathy.netlify.app/)
 
 
