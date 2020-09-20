@@ -21,7 +21,9 @@ ahmadfathydev@gmail.com\
 [twitter](https://twitter.com/ahmad_fathy97)\
 [linkedin](https://www.linkedin.com/in/ahmadfathy97/)\
 [facebook](https://www.facebook.com/AhmadFathy97/)\
-[Ahmad Fathy](https://ahmadfathy.netlify.app/)
+[Ahmad Fathy](https://ahmadfathy.netlify.app/)\
+[My CV](https://ahmadfathy.netlify.app/cv/AHMAD%20FATHY%20CV.pdf)
+
 
 
 > My pc is my friend I talk to him a lot, sometimes beautiful things are produced from our talks.
