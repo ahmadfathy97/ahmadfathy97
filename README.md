@@ -5,12 +5,12 @@
  * 🔎 I am looking for job opportunity.
 
 ### my skills
-Html, Css, JS, JQuery, Bootstrap, Ajax, Vue.js, Vuex, Pug, Ejs, Sass, Node.js, Express, MongoDB, mongoose, Git/Github.
+Html, Css, JS, JQuery, Bootstrap, Ajax, Vue.js, Vuex, Nuxt.js, Pug, Ejs, Sass, Node.js, Express, MongoDB, mongoose, Git/Github.
 ##### i also have some experience with
-Nuxt.js, Canvas, SVG, Three.js, P5.js, React.
+Canvas, SVG, Three.js, P5.js, React.
 ##### and I am familiar with
 Php, MySQL, Electron, NativeScript, C++, VisualBasic.
-##### I am trying to learn now
+##### Currently I am trying to learn
 GraphQL.
 
 ### Achievements
