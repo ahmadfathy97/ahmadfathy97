@@ -1,8 +1,7 @@
 ![](images/ahmad-fathy.png)
 ### Hey there
- * 👨 My name is __Ahmad Fathy__, I am from Egypt and I am 23 years old.
+ * 👨 My name is __Ahmad Fathy__, I am from Egypt and I am 25 years old.
  * 💻 I am a full stack web developer using __JavaScript__ in almost all of my works.
- * 🔎 I am looking for job opportunity.
 
 ### my skills
 Html, Css, JS, JQuery, Bootstrap, Ajax, Vue.js, Vuex, Nuxt.js, Pug, Ejs, Sass, Node.js, Express, MongoDB, mongoose, Git/Github.
