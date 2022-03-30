@@ -20,8 +20,8 @@ ahmadfathydev@gmail.com\
 [twitter](https://twitter.com/ahmad_fathy97)\
 [linkedin](https://www.linkedin.com/in/ahmadfathy97/)\
 [facebook](https://www.facebook.com/AhmadFathy97/)\
-[Ahmad Fathy](https://ahmadfathy.me)\
-[My CV](https://ahmadfathy.netlify.app/cv/AHMAD%20FATHY%20CV.pdf)
+[Ahmad Fathy](https://ahmadfathy97.github.io/)\
+[My CV](https://ahmadfathy97.github.io/cv/AHMAD%20FATHY%20CV.pdf)
 
 
 
